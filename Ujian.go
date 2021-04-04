@@ -56,7 +56,7 @@ func main() {
 		(brg3.HargaBrg * blj3.JumlahBrg) + (brg4.HargaBrg * blj4.JumlahBrg) +
 		(brg5.HargaBrg * blj5.JumlahBrg)
 
-	fmt.Println("---List Barang Belanja---")
+	fmt.Println("----List Barang Belanja----")
 	fmt.Println(brg1.NamaBrg, "=", blj1.JumlahBrg, "buah")
 	fmt.Println(brg2.NamaBrg, "=", blj2.JumlahBrg, "buah")
 	fmt.Println(brg3.NamaBrg, "=", blj3.JumlahBrg, "buah")
